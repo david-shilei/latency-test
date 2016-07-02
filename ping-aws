@@ -1,0 +1,3 @@
+#!/bin/bash
+ruby /Users/dshi/Development/AWS/ping-aws.rb "$@"
+
